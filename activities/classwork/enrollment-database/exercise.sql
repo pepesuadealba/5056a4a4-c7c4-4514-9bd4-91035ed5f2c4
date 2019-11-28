@@ -33,4 +33,3 @@
 -- D) What's the average age and gpa per course?
 
 -- E) Get the average number of years the enrolled (approved) female student will study.
-
